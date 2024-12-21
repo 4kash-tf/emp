@@ -1,0 +1,14 @@
+{
+  "name": "employeeeapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    // your dependencies
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    // other scripts
+  },
+  // other sections
+
+]
